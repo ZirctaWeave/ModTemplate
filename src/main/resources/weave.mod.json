@@ -1,0 +1,10 @@
+{
+  "name": "Mod Template",
+  "modId": "ModTemplate",
+  "mixinConfigs": [
+    "modtemplate.mixins.json"
+  ],
+  "entrypoints": [
+    "me.zircta.modtemplate.Main"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "me.zircta.modtemplate.mixins",
+  "mixins": [
+    "MinecraftMixin"
+  ]
+}
