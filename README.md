@@ -6,8 +6,6 @@ A simple mod template for Weave.
 ### Installation
 1. Download [Mod Template](https://github.com/Syz66/ModTemplate/releases/latest) mod.
 2. Place the jar in your Weave mods folder.
-    1. Windows: `%userprofile%\.weave\mods`
-    2. Unix: `~/.weave/mods`
 3. Download [lunar-client-qt](https://github.com/Youded-byte/lunar-client-qt/releases/latest).
 
 ### Build
